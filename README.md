@@ -56,8 +56,4 @@
 
 Feel free to fork the repository and submit pull requests.
 
-## License
-
-[Choose a license. Add details here if you have a LICENSE file.]
-
 ---
