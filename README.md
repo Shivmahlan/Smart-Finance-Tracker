@@ -207,7 +207,7 @@ Pull requests are welcome! For major changes, open an issue first.
 ## 👨‍💻 Author
 
 **Shiv Mahlan**
-B.Tech CSE (Data Science) · Poornima University
+B.Tech CSE (Data Science) · Ch. Devi Lal University 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Shivmahlan-181717?style=flat-square&logo=github)](https://github.com/Shivmahlan)
 
